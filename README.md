@@ -110,8 +110,8 @@ I believe in **learning by building**, improving 1% every day, and turning ideas
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** *(Add your link)*  
-- **Email:** *(Add your email)*  
+- **LinkedIn:** *https://www.linkedin.com/in/sunil-kumar-behera-00baa1153?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbMeNrqaZSAOp6rwmmE6%2F%2FQ%3D%3D*  
+- **Email:** *h20230843@pilani.bits-pilani.ac.in*  
 
 ---
 
