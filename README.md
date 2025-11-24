@@ -17,7 +17,7 @@ I believe in **learning by building**, improving 1% every day, and turning ideas
 
 ## 🎓 Education & Learning Journey
 
-- Bachelor's Degree in **(Add your degree & college)**  
+- Bachelor of Technology in **Bits Pilani**  
 - Learning & upskilling in:  
   - Python Backend Development  
   - API Architecture & System Design  
